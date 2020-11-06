@@ -1,15 +1,15 @@
-# RICE_DISEASE-CLASSIFICATION
+##Rice Disease Classification
 
-Rice Disease Identification using CNN
+Save the required training images in the /Rice Disease/training_images/
 
-#For GUI
+Save the required testing images in the /Rice Disease/test_images/
 
-Go to /Cassava Disease/
+Run the train.py file
 
-Refer README.md
+It creates retrained_graph.pb
 
-#For Android Application
+Run the test.py file for testing purpose
 
-Go to /tensorflow-classifier-android/
+##GUI
 
-Refer README.md
+Run the GUI.py file
